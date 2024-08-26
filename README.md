@@ -15,6 +15,7 @@ This repository contains projects and assignments from the Coding Ninjas Full St
 <li>Error Handling: Added comprehensive error-handling mechanisms to ensure a robust application.</li>
 <li>Security: Applied security best practices, including JWT authentication and data validation.</li>
 </ul>
+
 ## Projects
 <ol>
 <li>Inventory Management System: A CRUD application for managing inventory items.</li>
