@@ -1,7 +1,7 @@
 # Coding-Ninjas-Full-Stack
 HTML5, CSS3, JavaScript, NodeJS
 <br>
-Welcome to the Coding-Ninjas-Full-Stack repository!
+<h2> Welcome to the Coding-Ninjas-Full-Stack repository! </h2>
 
 <h3>This repository contains projects and assignments from the Coding Ninjas Full Stack Web Development Bootcamp. It includes a variety of full-stack web applications built using modern technologies and best practices. The primary goal of this repository is to showcase and practice the skills acquired during the bootcamp, covering both front-end and back-end development.</h3>
 
