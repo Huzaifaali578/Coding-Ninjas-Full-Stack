@@ -7,13 +7,15 @@ This repository contains projects and assignments from the Coding Ninjas Full St
 
 ## Features
 1) Node.js & Express: Server-side development using Node.js and Express.js. <br>
-MongoDB: Database integration with MongoDB for data storage and management.<br>
-EJS: Template rendering for dynamic web pages.<br>
+2) MongoDB: Database integration with MongoDB for data storage and management.<br>
+3) EJS: Template rendering for dynamic web pages.<br>
 User Authentication: Implemented login, registration, and user session management.<br>
 RESTful APIs: Created and consumed RESTful APIs for various functionalities.<br>
 Error Handling: Added comprehensive error-handling mechanisms to ensure a robust application.<br>
 Security: Applied security best practices, including JWT authentication and data validation.<br>
 ## Projects
-Inventory Management System: A CRUD application for managing inventory items.<br>
-E-commerce Platform: An online shopping site with features like product rating, cart management, and user reviews.<br>
-Bug Tracking App: A tool for tracking and managing bugs/issues similar to GitHub’s issue tracker.<br>
+<ol>
+<li>Inventory Management System: A CRUD application for managing inventory items.</li>
+<li>E-commerce Platform: An online shopping site with features like product rating, cart management, and user reviews.</li>
+<li>Bug Tracking App: A tool for tracking and managing bugs/issues similar to GitHub’s issue tracker.</li>
+</ol>
