@@ -17,8 +17,8 @@ This repository contains projects and assignments from the Coding Ninjas Full St
 </ul>
 
 ## Projects
-<ol>
+<ul>
 <li>Inventory Management System: A CRUD application for managing inventory items.</li>
 <li>E-commerce Platform: An online shopping site with features like product rating, cart management, and user reviews.</li>
 <li>Bug Tracking App: A tool for tracking and managing bugs/issues similar to GitHub’s issue tracker.</li>
-</ol>
+</ul>
